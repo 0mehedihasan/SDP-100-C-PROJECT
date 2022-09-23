@@ -151,7 +151,7 @@ int main(){
 							fwrite(&user,sizeof(struct user),1,fp);
 							fclose(fp);
 							printf("\nPhone number successfully changed");
-						}else printf("\nSorry your hone number is wrong");
+						}else printf("\nSorry your phone number is wrong");
 
 					default:
 					break;
