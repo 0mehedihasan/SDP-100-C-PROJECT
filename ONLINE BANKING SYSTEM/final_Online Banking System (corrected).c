@@ -140,7 +140,7 @@ int main(){
 							printf("\nPassword successfully changed");
 						}else printf("\nSorry your password is wrong");
 						break;
-                    case 6:
+                    			case 6:
 						printf("\n\nPlease enter your current phone number:\t");
 						scanf("%s",phone);
 						if(!strcmp(phone,user.phone)){
@@ -154,7 +154,7 @@ int main(){
 							printf("\nPhone number successfully changed");
 						}else printf("\nSorry your phone number is wrong");
 						break;
-                    case 7:
+                    			case 7:
 						printf("Your account number is: %s",user.ac);
 						printf("\nYour phone number is: %s",user.phone);
 						printf("\nYour current balance is TK %.2f",user.balance);
