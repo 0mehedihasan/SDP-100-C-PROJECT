@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1665672849 source:c:\users\gadget valley\onedrive\desktop\online banking system\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+	<dos.h>
+	<time.h>
+	<ctype.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+
