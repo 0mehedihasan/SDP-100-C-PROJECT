@@ -78,7 +78,7 @@ void loading()
     gotoxy(30,15);
     for(r=1; r<=25; r++)
     {
-        for(q=0; q<=100000000; q++);
+        for(q=0; q<=40000000; q++);
         printf("%c",177);
     }
     system("cls");
